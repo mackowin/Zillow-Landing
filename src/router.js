@@ -2,7 +2,6 @@ import VueRouter from 'vue-router';
 // Pages
 
 import HomeTemplate from "./ideas/_template/HomeTemplate";
-import RegisterTemplate from "./ideas/_template/RegisterTemplate";
 
 export const router = new VueRouter({
     mode: 'history',
@@ -12,7 +11,6 @@ export const router = new VueRouter({
     },
     routes: [
       { path: '/', component: HomeTemplate },
-      { path: '/register', component: RegisterTemplate },
       
       // otherwise redirect to home
       { path: '*', redirect: '/' }

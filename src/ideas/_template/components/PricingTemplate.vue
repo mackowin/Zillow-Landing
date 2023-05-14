@@ -7,7 +7,7 @@
                 <h2>Pricing Plans</h2>
                 <div class="bar"></div>
                 <div class="paragraph">
-                    <p>Try BLEND Feedback for <a href="/register" style="font-weight: 600">FREE</a> for 14 days</p>
+                    <p>Try Doorhacker DEMO for <a href="#" style="font-weight: 600">FREE</a>.</p>
                 </div>
             </div>
 
@@ -15,26 +15,25 @@
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="pricing-table">
                         <div class="pricing-header">
-                            <h3>Basic Plan</h3>
+                            <h3>DEMO</h3>
                         </div>
 
                         <div class="price">
-                            <span><sup></sup>$19<span> monthly</span></span>
+                            <span><sup></sup>FREE<span></span></span>
                         </div>
 
                         <div class="pricing-features">
                             <ul>
-                                <li class="active">1 user</li>
-                                <li class="active">$15/user/mo for more users</li>
-                                <li class="active">100 guest reviewers</li>
-                                <li class="active">1000 commenting limits</li>
-                                <li class="active">File attachment in comments</li>
-                                <li class="active">Pause commenting</li>
+                                <li class="active">30 properties analyzed</li>
+                                <li class="active">30 properties per excel export</li>
+                                <li class="active">Request additional cities</li>
+                                <li>Sorting by price, rent, and returns</li>
+                                <li>Edit rent inputs (*** to come)</li>
                             </ul>
                         </div>
 
                         <div class="pricing-footer">
-                            <a href="/register" class="btn btn-primary">Select Plan</a>
+                            <a href="#" class="btn btn-primary">TRY DEMO</a>
                         </div>
                     </div>
                 </div>
@@ -46,22 +45,21 @@
                         </div>
 
                         <div class="price">
-                            <span><sup></sup>$89<span> monthly</span></span>
+                            <span><sup></sup>$29<span> monthly</span></span>
                         </div>
 
                         <div class="pricing-features">
                             <ul>
-                                <li class="active">5 users</li>
-                                <li class="active">$15/user/mo for more users</li>
-                                <li class="active">Unlimited guest reviewers</li>
-                                <li class="active">No commenting limits</li>
-                                <li class="active">File attachment in comments</li>
-                                <li class="active">Pause commenting</li>
+                                <li class="active">800 properties analyzed</li>
+                                <li class="active">800 properties per excel export</li>
+                                <li class="active">City requests prioritiezed</li>
+                                <li class="active">Sorting by price, rent, and returns</li>
+                                <li class="active">Edit rent inputs (*** to come)</li>
                             </ul>
                         </div>
 
                         <div class="pricing-footer">
-                            <a href="/register" class="btn btn-primary">Select Plan</a>
+                            <a href="https://buy.stripe.com/14kcON0E18b0byE3ce" class="btn btn-primary">UPGRADE</a>
                         </div>
                     </div>
                 </div>

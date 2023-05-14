@@ -84,7 +84,7 @@ $purple-color: #c679e3;
 $bg-color: #f7fafd;
 $bg-color2: #f9f6f6;
 $hosting-main-color: #032b8d;
-$gradient-color: linear-gradient(35deg, #000 85%, #43e794 50%);
+$gradient-color: linear-gradient(35deg, #3b2d9b 85%, #43e794 50%);
 $gradient-color-A: linear-gradient(35deg, #0b5345 85%, #DDAC4A 50%);
 $gradient-color2: linear-gradient(to right bottom, #1fa2ff, #00c0ff, #00d9f2, #53eedd, #a6ffcb);
 $transition: .5s;
@@ -675,7 +675,7 @@ Navbar CSS
                 }
                 span {
                     display: inline-block;
-                    background-color: red;
+                    background-color: white;
                     color: $white-color;
                     font-size: 9px;
                     width: 13px;
@@ -1495,7 +1495,7 @@ Services CSS
             top: 0;
             height: 100%;
             width: 100%;
-            background: $gradient-color-A;
+            background: $gradient-color;
             opacity: 0;
             visibility: hidden;
             position: absolute;
@@ -3122,7 +3122,7 @@ Works CSS
 }
 
 .carousel-green-hover::before {
-    background: linear-gradient(35deg, #000 85%, #43e794 50%);
+    background: $gradient-color;
     -webkit-transition: 0.5s;
     transition: 0.5s;
 }
@@ -4096,6 +4096,7 @@ h2.lastname {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    background-color: #3b2d9b;
 
     &.btn-contact {
         flex-direction: row;
@@ -6158,6 +6159,20 @@ html{
 #canvas {
 background-color: #eee;
 }
+
+
+/*================================================
+Memes
+=================================================*/
+
+.users {
+    color: #9a9a9a;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+
 
 /*================================================
 Testing Environment

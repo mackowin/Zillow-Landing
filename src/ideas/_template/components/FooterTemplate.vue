@@ -7,11 +7,11 @@
                     <div class="single-footer-widget">
                         <div class="logo">
                             <a href="/">
-                                <img width="120px" src="../resources/template-logo.svg"/>
+                                <img width="120px" src="../resources/doorhacker-logo.png"/>
                             </a>
                         </div>
-                        <p style="font-weight: 600">Aggregate visual feedback and emotions</p>
-                        <p>Let users comment directly on your website</p>
+                        <p style="font-weight: 600">Find cash flow on Zillow</p>
+                        <p>Get rents in one click and screen properties with the highest returns</p>
                     </div>
                 </div>
 
@@ -29,6 +29,10 @@
                     <div class="single-footer-widget">
                         <h3>Support</h3>
                         <ul class="list">
+                            <li><a href="/RE_Terms_of_Service.pdf">Terms of Service</a></li>
+                            <li><a href="/RE_Privacy_Policy.pdf">Privacy Policy</a></li>
+                            <li><a href="/RE_Website_Terms_and_Conditions.pdf">Terms and Conditions</a></li>
+                            
                             <li><a href="/" v-scroll-to="'#contact'" >Contact Us</a></li>
                         </ul>
                     </div>
@@ -38,7 +42,7 @@
 
                 <div class="col-lg-12 col-md-12">
                     <div class="copyright-area">
-                        <p>Copyright &copy;2022 BLEND Feedback. All Rights Reserved</p>
+                        <p>Copyright &copy;2023 Doorhacker. All Rights Reserved</p>
                     </div>
                 </div>
             </div>

@@ -5,7 +5,7 @@
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
                     <router-link class="navbar-brand" to="/">
-                        <img width="110px" src="./../resources/template-logo.svg"/>
+                        <img width="110px" src="./../resources/doorhacker-logo.png"/>
                     </router-link>
 
                     <b-navbar-toggle target="navbarSupportedContent"></b-navbar-toggle>

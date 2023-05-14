@@ -22,12 +22,12 @@
     },
     metaInfo() {
     return {
-      title: "Template",
+      title: "Find cash flow on Zillow",
       meta: [
-        { vmid: 'description', name: 'description', content:  'Template description'},
-        { vmid: 'ogtitle', property: 'og:title', content: "Template title"},
-        { vmid: 'ogsite', property: 'og:site_name', content: 'Template site name'},
-        { vmid: 'ogtype', property: 'og:type', content: 'website'},
+        { vmid: 'description', name: 'description', content:  'Get rents in one click and screen properties with the highest returns. Say goodbye to extracting Zillow data manually, and entering property details in your excel spreadsheet. Get average asking rent in the neighborhood and returns in one click and sort by price, rent and returns to screen ONLY the best listings.'},
+        { vmid: 'ogtitle', property: 'og:title', content: "Find cash flow on Zillow"},
+        { vmid: 'ogsite', property: 'og:site_name', content: 'Find cash flow on Zillow'},
+        { vmid: 'ogtype', property: 'og:type', content: 'Find cash flow on Zillow'},
       ]
     }
   }

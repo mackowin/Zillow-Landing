@@ -10,49 +10,64 @@
                             <div class="hero-content">
                                 <div class="row">
                                     <div class="col-lg-11">
-                                        <h1>Let users comment directly on your website</h1>
-                                        <h5>Visual and actionable feedback</h5>
+                                        <h1>Find cash flow on Zillow</h1>
+                                        <h5>Get rents in one click and screen properties with the highest returns</h5>
 
                                         <div class="tick-section">
                                             <div class="d-block d-sm-none">
                                                 <div class="tick-row">
                                                     <font-awesome-icon class="fa-2x tick-icon" icon="check-square" />
-                                                    <p class="tick-input">Comments & upvotes</p>
+                                                    <p class="tick-input">Average asking rent in the neighborhood</p>
                                                 </div>
                                             </div>
 
                                                 <div class="d-none d-sm-block">
                                                     <div class="tick-row">
                                                         <font-awesome-icon class="fa-2x tick-icon" icon="check-square" />
-                                                        <p class="tick-input">Comments & upvotes</p>
+                                                        <p class="tick-input">Average asking rent in the neighborhood</p>
                                                     </div>
                                                 </div>
 
                                             <div class="d-block d-sm-none">
                                                 <div class="tick-row">
                                                     <font-awesome-icon class="fa-2x tick-icon" icon="check-square" />
-                                                    <p class="tick-input">Reactions</p>
+                                                    <p class="tick-input">Sorting by price, rent and returns</p>
                                                 </div>
                                             </div>
 
                                                 <div class="d-none d-sm-block">
                                                     <div class="tick-row">
                                                         <font-awesome-icon class="fa-2x tick-icon" icon="check-square" />
-                                                        <p class="tick-input">Reactions</p>
+                                                        <p class="tick-input">Sorting by price, rent and returns</p>
+                                                    </div>
+                                                </div>
+                                            
+
+                                            <div class="d-block d-sm-none">
+                                                <div class="tick-row">
+                                                    <font-awesome-icon class="fa-2x tick-icon" icon="check-square" />
+                                                    <p class="tick-input">Rent/Price and Cap rate calculated</p>
+                                                </div>
+                                            </div>
+
+                                                <div class="d-none d-sm-block">
+                                                    <div class="tick-row">
+                                                        <font-awesome-icon class="fa-2x tick-icon" icon="check-square" />
+                                                        <p class="tick-input">Rent/Price and Cap rate calculated</p>
                                                     </div>
                                                 </div>
 
                                             <div class="d-block d-sm-none">
                                                 <div class="tick-row">
                                                     <font-awesome-icon class="fa-2x tick-icon" icon="check-square" />
-                                                    <p class="tick-input">Easy aggregation</p>
+                                                    <p class="tick-input">Data export to excel</p>
                                                 </div>
                                             </div>
 
                                                 <div class="d-none d-sm-block">
                                                     <div class="tick-row">
                                                         <font-awesome-icon class="fa-2x tick-icon" icon="check-square" />
-                                                        <p class="tick-input">Easy aggregation</p>
+                                                        <p class="tick-input">Data export to excel</p>
                                                     </div>
                                                 </div>
                                         </div>
@@ -71,7 +86,7 @@
                                                 controls
                                                 crossorigin
                                                 playsinline
-                                                poster="../resources/template2.png" style="background: white;">
+                                                poster="../resources/template0.png" style="background: white;">
                                             <source src="../resources/template3.mp4" type="video/mp4">
                                             Your browser does not support the video tag
                                         </video>
@@ -84,7 +99,7 @@
                                                 controls
                                                 crossorigin
                                                 playsinline
-                                                poster="../resources/template2.png" style="background: white;">
+                                                poster="../resources/template0.png" style="background: white;">
                                             <source src="../resources/template3.mp4" type="video/mp4">
                                             Your browser does not support the video tag
                                         </video>
@@ -94,29 +109,12 @@
                         </div>
                     </div>
 
-                    <div style="margin: 6rem 25px 3rem">
-                        <div class="row">
-                            <div class="col-lg-6 col-sm-8 col-10 offset-lg-3 offset-sm-2 offset-1">
-                                <img src="../../../assets/img/123.svg" style="margin-bottom: 1rem"/>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-lg-8 col-sm-10 col-12 offset-lg-2 offset-sm-1">
-                                <div class="row">
-                                    <div class="col-4" style="text-align: center; padding: 0">Select elements <br> for users to comment on</div>
-                                    <div class="col-4" style="text-align: center; padding: 0 10px">Get comments, <br> upvotes & reactions</div>
-                                    <div class="col-4" style="text-align: center; padding: 0">Aggregate feedback <br>into actionable reports</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                     <div class="row banner-action-btns">
                         <div class="col-xl-7 col-lg-9">
                             <div class="row justify-content-center">
                                 <div class="col-sm-8 col-10">
-                                    <a href="/register" class="btn btn-primary btn-register btn-profile">GET STARTED NOW</a>
+                                    <a href="#" class="btn btn-primary btn-register btn-profile" style="margin-bottom: 8px">&#129351; Add to Chrome &#x2192;</a>
+                                    <div class="users">Join 1,126+ users</div>
                                 </div>
                             </div>
                         </div>

@@ -20,48 +20,48 @@
             >
                 <slide>
                     <div class="single-works carousel-green-hover">
-                        <img src="../resources/template1.png">
+                        <img src="../resources/template5.png">
                         <a v-if="windowWidth > 767" @click="index = 0;$refs['modal-zoom'].show()" style="cursor: pointer;" class="icon"><feather type="zoom-in"></feather></a>
 
                         <div class="works-content">
-                            <h3><a href="#">Aggregate feedback into actionable reports</a></h3>
-                            <p>At first glance you know which areas to prioritize</p>
+                            <h3><a href="#">Rent-to-price & Cap Rate on autopilot</a></h3>
+                            <p>Doorhacker calculates rent-to-price and cap rate</p>
                         </div>
                     </div>
                 </slide>
 
                 <slide>
                     <div class="single-works carousel-green-hover">
-                        <img src="../resources/template6.png">
+                        <img src="../resources/template4.png">
                         <a v-if="windowWidth > 767" @click="index = 1;$refs['modal-zoom'].show()" style="cursor: pointer;" class="icon"><feather type="zoom-in"></feather></a>
 
                         <div class="works-content">
-                            <h3><a href="#">Resolve unclear or conflicting feedback</a></h3>
-                            <p>It has never been more obvious which feedback to implement</p>
+                            <h3><a href="#">Export data to excel</a></h3>
+                            <p>Conveniently share with others or use for additional analysis</p>
                         </div>
                     </div>
                 </slide>
 
                 <slide>
                     <div class="single-works carousel-green-hover">
-                        <img src="../resources/template5.png" >
+                        <img src="../resources/template6.png" >
                         <a v-if="windowWidth > 767" @click="index = 2;$refs['modal-zoom'].show()" style="cursor: pointer;" class="icon"><feather type="zoom-in"></feather></a>
 
                         <div class="works-content">
-                            <h3><a href="#">Capture your visitors emotions</a></h3>
-                            <p>Choose the emojis that better capture feedback in your project</p>
+                            <h3><a href="#">Focus only on best returns, prices or rents</a></h3>
+                            <p>With sorting, no need to waste time on properties which don't meet your requirements</p>
                         </div>
                     </div>
                 </slide>
 
                 <slide>
                     <div class="single-works carousel-green-hover">
-                        <img src="../resources/template4.png" >
+                        <img src="../resources/template1.png" >
                         <a v-if="windowWidth > 767" @click="index = 3;$refs['modal-zoom'].show()" style="cursor: pointer;" class="icon"><feather type="zoom-in"></feather></a>
 
                         <div class="works-content">
-                            <h3><a href="#">Collect visual feedback</a></h3>
-                            <p>Spend less time collecting and organizing feedback</p>
+                            <h3><a href="#">Asking rent average for each investment property</a></h3>
+                            <p>Calculated from Zillow asking rents in the neighborhood</p>
                         </div>
                     </div>
                 </slide>
@@ -85,20 +85,20 @@ export default {
             index: 0,
             modalProperties: [
                 {
-                   title : "Aggregate feedback into actionable reports",
-                   img: "./template1.png"
+                   title : "Rent-to-price & Cap Rate on autopilot",
+                   img: "./template5.png"
                 },
                 {
-                    title : "Resolve unclear or conflicting feedback",
+                    title : "Export data to excel",
+                    img: "./template4.png"
+                },
+                {
+                    title : "Focus only on best returns, prices or rents",
                     img: "./template6.png"
                 },
                 {
-                    title : "Capture your visitors emotions",
-                    img: "./template5.png"
-                },
-                {
-                    title : "Collect visual feedback",
-                    img: "./template4.png"
+                    title : "Asking rent average for each investment property",
+                    img: "./template1.png"
                 }
 
             ]
